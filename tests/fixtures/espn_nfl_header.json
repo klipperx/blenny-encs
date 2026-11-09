@@ -1,0 +1,39 @@
+{
+  "sports": [
+    {
+      "leagues": [
+        {
+          "events": [
+            {
+              "id": "401770201",
+              "competitors": [
+                {
+                  "homeAway": "away",
+                  "id": "12",
+                  "abbreviation": "KC",
+                  "name": "Chiefs",
+                  "score": "17",
+                  "color": "e31837"
+                },
+                {
+                  "homeAway": "home",
+                  "id": "4",
+                  "abbreviation": "BUF",
+                  "name": "Bills",
+                  "score": "20",
+                  "color": "00338d"
+                }
+              ],
+              "fullStatus": {
+                "type": {
+                  "state": "in",
+                  "shortDetail": "Q3 5:00"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

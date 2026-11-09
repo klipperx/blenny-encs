@@ -1,0 +1,21 @@
+{
+  "balls": 2,
+  "strikes": 1,
+  "outs": 1,
+  "currentInning": 7,
+  "currentInningOrdinal": "7th",
+  "inningState": "Top",
+  "teams": {
+    "away": { "runs": 3 },
+    "home": { "runs": 2 }
+  },
+  "innings": [
+    { "away": { "runs": 0 }, "home": { "runs": 1 } },
+    { "away": { "runs": 1 }, "home": { "runs": 0 } },
+    { "away": { "runs": 0 }, "home": { "runs": 0 } },
+    { "away": { "runs": 2 }, "home": { "runs": 0 } },
+    { "away": { "runs": 0 }, "home": { "runs": 1 } },
+    { "away": { "runs": 0 }, "home": { "runs": 0 } },
+    { "away": { "runs": 0 }, "home": {} }
+  ]
+}

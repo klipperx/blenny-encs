@@ -1,0 +1,68 @@
+{
+  "dates": [
+    {
+      "games": [
+        {
+          "gamePk": 776001,
+          "status": {
+            "abstractGameState": "Live",
+            "detailedState": "In Progress"
+          },
+          "teams": {
+            "away": {
+              "score": 3,
+              "team": {
+                "id": 147,
+                "abbreviation": "NYY",
+                "name": "New York Yankees",
+                "teamName": "Yankees"
+              }
+            },
+            "home": {
+              "score": 2,
+              "team": {
+                "id": 111,
+                "abbreviation": "BOS",
+                "name": "Boston Red Sox",
+                "teamName": "Red Sox"
+              }
+            }
+          },
+          "linescore": {
+            "currentInning": 7,
+            "inningState": "Top",
+            "currentInningOrdinal": "7th"
+          }
+        },
+        {
+          "gamePk": 776002,
+          "status": {
+            "abstractGameState": "Final",
+            "detailedState": "Final"
+          },
+          "teams": {
+            "away": {
+              "score": 1,
+              "team": {
+                "id": 119,
+                "abbreviation": "LAD",
+                "name": "Los Angeles Dodgers",
+                "teamName": "Dodgers"
+              }
+            },
+            "home": {
+              "score": 5,
+              "team": {
+                "id": 137,
+                "abbreviation": "SF",
+                "name": "San Francisco Giants",
+                "teamName": "Giants"
+              }
+            }
+          },
+          "linescore": {}
+        }
+      ]
+    }
+  ]
+}

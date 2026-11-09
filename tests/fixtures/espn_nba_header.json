@@ -1,0 +1,39 @@
+{
+  "sports": [
+    {
+      "leagues": [
+        {
+          "events": [
+            {
+              "id": "401770101",
+              "competitors": [
+                {
+                  "homeAway": "away",
+                  "id": "13",
+                  "abbreviation": "LAL",
+                  "name": "Lakers",
+                  "score": "98",
+                  "color": "552583"
+                },
+                {
+                  "homeAway": "home",
+                  "id": "2",
+                  "abbreviation": "BOS",
+                  "name": "Celtics",
+                  "score": "104",
+                  "color": "007a33"
+                }
+              ],
+              "fullStatus": {
+                "type": {
+                  "state": "in",
+                  "shortDetail": "Q4 3:21"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

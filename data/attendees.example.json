@@ -1,0 +1,14 @@
+{
+  "attendees": [
+    {
+      "id": "ada",
+      "name": "Ada",
+      "truth": "Wrote a program for a machine that did not exist yet"
+    },
+    {
+      "id": "grace",
+      "name": "Grace",
+      "truth": "Coined the term debugging after a moth in a computer"
+    }
+  ]
+}

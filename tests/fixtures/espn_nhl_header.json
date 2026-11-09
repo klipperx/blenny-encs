@@ -1,0 +1,68 @@
+{
+  "sports": [
+    {
+      "leagues": [
+        {
+          "events": [
+            {
+              "id": "401770001",
+              "competitors": [
+                {
+                  "homeAway": "away",
+                  "id": "25",
+                  "abbreviation": "TOR",
+                  "name": "Maple Leafs",
+                  "score": "2",
+                  "color": "00205b"
+                },
+                {
+                  "homeAway": "home",
+                  "id": "10",
+                  "abbreviation": "MTL",
+                  "name": "Canadiens",
+                  "score": "3",
+                  "color": "af1e2d"
+                }
+              ],
+              "fullStatus": {
+                "type": {
+                  "state": "in",
+                  "shortDetail": "2nd 8:12",
+                  "detail": "2nd Period - 8:12"
+                }
+              }
+            },
+            {
+              "id": "401770002",
+              "competitors": [
+                {
+                  "homeAway": "away",
+                  "id": "20",
+                  "abbreviation": "BOS",
+                  "name": "Bruins",
+                  "score": "4",
+                  "color": "ffb81c"
+                },
+                {
+                  "homeAway": "home",
+                  "id": "3",
+                  "abbreviation": "NYR",
+                  "name": "Rangers",
+                  "score": "1",
+                  "color": "0038a8"
+                }
+              ],
+              "fullStatus": {
+                "type": {
+                  "state": "post",
+                  "shortDetail": "Final",
+                  "detail": "Final"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

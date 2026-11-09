@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "T-Display-S3") (type "KiCad") (uri "${KIPRJMOD}/../kicad/footprints/T-Display-S3.pretty") (options "") (descr "LilyGO T-Display S3 (ccadic)"))
+)

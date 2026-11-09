@@ -1,0 +1,24 @@
+{
+  "attendees": [
+    {
+      "id": "klipper",
+      "name": "Shaun Price",
+      "truth": "Loves Milwaukee Tools"
+    },
+    {
+      "id": "ada",
+      "name": "Ada Lovelace",
+      "truth": "Wrote a program for a machine that did not exist yet"
+    },
+    {
+      "id": "grace",
+      "name": "Grace Hopper",
+      "truth": "Coined the term debugging after a moth in a computer"
+    },
+    {
+      "id": "alan",
+      "name": "Alan Turing",
+      "truth": "Broke Enigma and invented the computer in the same lifetime"
+    }
+  ]
+}
